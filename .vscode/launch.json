@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/madyks/Desktop/c++/day1",
-      "program": "/home/madyks/Desktop/c++/day1/build/Debug/outDebug",
+      "cwd": "/home/madyks/Desktop/c++",
+      "program": "/home/madyks/Desktop/c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
